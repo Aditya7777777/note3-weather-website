@@ -1,0 +1,3 @@
+# //git will not tract this particular directory 
+node_modules/
+.env
